@@ -10,7 +10,7 @@ Al combinar el rigor científico de los tests A/B con la intuición y conocimien
 
 __Descripción de los datos__
 
-hypotheses_us.csv
+- hypotheses_us.csv
 
 •	_Hypotheses:_ breves descripciones de las hipótesis.
 
@@ -22,7 +22,7 @@ hypotheses_us.csv
 
 •	_Effort:_ los recursos necesarios para probar una hipótesis, en una escala del uno al diez. Cuanto mayor sea el valor Effort, más recursos requiere la prueba.
 
-orders_us.csv
+- orders_us.csv
 
 •	_transactionId:_ identificador de pedido.
 
@@ -34,7 +34,7 @@ orders_us.csv
 
 •	_group:_ el grupo del test A/B al que pertenece el usuario.
 
-visits_us.csv
+- visits_us.csv
 
 •	_date:_ la fecha.
 
