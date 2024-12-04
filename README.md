@@ -31,7 +31,7 @@ visits_us.csv
 
 __Tabla de contenido__
 
-En el archivo 'test_a_b.ipynb' se encuentra el siguiente desarrollo: 
+En el archivo '__test_a_b.ipynb__' se encuentra el siguiente desarrollo: 
 
 __Parte I__
 - Carga de librerias y archivos.
