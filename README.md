@@ -18,21 +18,29 @@ hypotheses_us.csv
 
 •	_Impact:_ impacto en los usuarios, en una escala del uno al diez.
 
-•	_Confidence:__ confianza en la hipótesis, en una escala del uno al diez.
+•	_Confidence:_ confianza en la hipótesis, en una escala del uno al diez.
 
-•	Effort: los recursos necesarios para probar una hipótesis, en una escala del uno al diez. Cuanto mayor sea el valor Effort, más recursos requiere la prueba.
+•	_Effort:_ los recursos necesarios para probar una hipótesis, en una escala del uno al diez. Cuanto mayor sea el valor Effort, más recursos requiere la prueba.
 
 orders_us.csv
-•	transactionId: identificador de pedido.
-•	visitorId: identificador del usuario que realizó el pedido.
-•	date: fecha del pedido.
-•	revenue: ingresos del pedido.
-•	group: el grupo del test A/B al que pertenece el usuario.
+
+•	_transactionId:_ identificador de pedido.
+
+•	_visitorId:_ identificador del usuario que realizó el pedido.
+
+•	_date:_ fecha del pedido.
+
+•	_revenue:_ ingresos del pedido.
+
+•	_group:_ el grupo del test A/B al que pertenece el usuario.
 
 visits_us.csv
-•	date: la fecha.
-•	group: grupo de la prueba A/B.
-•	visits: el número de visitas en la fecha especificada en el grupo de pruebas A/B especificado.
+
+•	_date:_ la fecha.
+
+•	_group:_ grupo de la prueba A/B.
+
+•	_visits:_ el número de visitas en la fecha especificada en el grupo de pruebas A/B especificado.
 
 __Tabla de contenido__
 
