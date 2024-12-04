@@ -1,5 +1,5 @@
 # Pruebas-A-B
-Selección de hipótesis mediante resultados de pruebas A/B
+Selección de hipótesis mediante resultados de pruebas A/B.
 
 Para impulsar el crecimiento de un negocio digital se tienen a disposición una serie de hipótesis, propuestas innovadoras que podrían convertirse en el catalizador para aumentar los ingresos. Sin embargo, no todas las hipótesis son creadas iguales, y es fundamental priorizar aquellas que tienen mayor probabilidad de éxito.
 
