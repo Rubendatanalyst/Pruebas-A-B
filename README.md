@@ -11,6 +11,7 @@ Al combinar el rigor científico de los tests A/B con la intuición y conocimien
 __Descripción de los datos__
 
 hypotheses_us.csv
+
 •	Hypotheses: breves descripciones de las hipótesis.
 •	Reach: alcance del usuario, en una escala del uno a diez.
 •	Impact: impacto en los usuarios, en una escala del uno al diez.
